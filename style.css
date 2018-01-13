@@ -1,0 +1,34 @@
+
+html {
+	margin: 0; 
+	padding: 0; 
+}
+body {
+	font-family: "Courier New", monospace;
+	color: white; 
+	background-color: black; 
+}
+
+h1 {
+	font-family: "Courier New", monospace;
+	font-weight: normal; 
+}
+
+h3 {
+	font-family: "Courier New", monospace;
+}
+
+
+a:link { 
+	text-decoration: none; 
+	font-family: "Courier New", monospace;
+	font-weight: normal; 
+	color: #B7A5DF;
+}
+a:visited { 
+	text-decoration: none;
+	font-family: "Courier New", monospace;
+	font-weight: normal; 
+	color: #D4CDDC;
+}
+
