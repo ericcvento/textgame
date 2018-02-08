@@ -1,1 +1,1 @@
-hello
+February 8, 2018 - a text-based game in its infancy
